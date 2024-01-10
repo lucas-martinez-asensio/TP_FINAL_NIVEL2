@@ -1,0 +1,6 @@
+C:\Users\Acer\Documents\Programacion\Curso C# Nivel 2\U6 Conexiones BD\Cuentas_Casa\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\Programacion\Curso C# Nivel 2\U6 Conexiones BD\Cuentas_Casa\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Programacion\Curso C# Nivel 2\U6 Conexiones BD\Cuentas_Casa\dominio\bin\Debug\dominio.dll
+C:\Users\Acer\Documents\Programacion\Curso C# Nivel 2\U6 Conexiones BD\Cuentas_Casa\dominio\bin\Debug\dominio.pdb
+C:\Users\Acer\Documents\Programacion\Curso C# Nivel 2\U6 Conexiones BD\Cuentas_Casa\dominio\obj\Debug\dominio.dll
+C:\Users\Acer\Documents\Programacion\Curso C# Nivel 2\U6 Conexiones BD\Cuentas_Casa\dominio\obj\Debug\dominio.pdb

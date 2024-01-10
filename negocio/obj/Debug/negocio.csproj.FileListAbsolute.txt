@@ -1,0 +1,9 @@
+C:\Users\Acer\Documents\Programacion\Curso C# Nivel 2\U6 Conexiones BD\Cuentas_Casa\negocio\bin\Debug\negocio.dll
+C:\Users\Acer\Documents\Programacion\Curso C# Nivel 2\U6 Conexiones BD\Cuentas_Casa\negocio\bin\Debug\negocio.pdb
+C:\Users\Acer\Documents\Programacion\Curso C# Nivel 2\U6 Conexiones BD\Cuentas_Casa\negocio\bin\Debug\dominio.dll
+C:\Users\Acer\Documents\Programacion\Curso C# Nivel 2\U6 Conexiones BD\Cuentas_Casa\negocio\bin\Debug\dominio.pdb
+C:\Users\Acer\Documents\Programacion\Curso C# Nivel 2\U6 Conexiones BD\Cuentas_Casa\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\Programacion\Curso C# Nivel 2\U6 Conexiones BD\Cuentas_Casa\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Programacion\Curso C# Nivel 2\U6 Conexiones BD\Cuentas_Casa\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\Acer\Documents\Programacion\Curso C# Nivel 2\U6 Conexiones BD\Cuentas_Casa\negocio\obj\Debug\negocio.dll
+C:\Users\Acer\Documents\Programacion\Curso C# Nivel 2\U6 Conexiones BD\Cuentas_Casa\negocio\obj\Debug\negocio.pdb
